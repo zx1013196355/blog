@@ -1,0 +1,24 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/inkblotty"]
+	path = themes/inkblotty
+	url = https://github.com/tosi29/inkblotty.git
+[submodule "themes/edidor"]
+	path = themes/edidor
+	url = https://github.com/jacobsun/edidor.git
+[submodule "themes/allinone"]
+	path = themes/allinone
+	url = https://github.com/orianna-zzo/AllinOne.git
+[submodule "themes/AllinOne"]
+	path = themes/AllinOne
+	url = https://github.com/orianna-zzo/AllinOne.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/Tranquilpeak"]
+	path = themes/Tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
